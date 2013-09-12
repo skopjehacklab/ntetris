@@ -1,0 +1,18 @@
+{
+  "name": "tetris",
+  "version": "0.0.1",
+  "description": "Play tetris in the command line",
+  "main": "primer.js",
+  "dependencies": {
+    "blessed": "~0.0.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tetris"
+  ],
+  "author": "spion",
+  "license": "MIT"
+}
