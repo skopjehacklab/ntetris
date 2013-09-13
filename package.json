@@ -2,7 +2,10 @@
   "name": "tetris",
   "version": "0.0.1",
   "description": "Play tetris in the command line",
-  "main": "primer.js",
+  "main": "tetris.js",
+  "bin": {
+      'node-tetris':'tetris.js'
+  },
   "dependencies": {
     "blessed": "~0.0.24"
   },
