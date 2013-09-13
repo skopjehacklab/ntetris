@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var blessed = require('blessed');
 
 // Create a screen object.
@@ -10,9 +12,6 @@ var box = blessed.box({
   height: 20,
   content: '',
   tags: true,
-  /*border: {
-    type: 'line'
-  },*/
   style: {
     fg: 'white',
     bg: 'black'

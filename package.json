@@ -4,7 +4,7 @@
   "description": "Play tetris in the command line",
   "main": "tetris.js",
   "bin": {
-      'node-tetris':'tetris.js'
+      "ntetris":"tetris.js"
   },
   "dependencies": {
     "blessed": "~0.0.24"
