@@ -6,7 +6,7 @@ Node.js tetris
 
 # install
 
-    npm install -g tetris
+    npm install -g ntetris
 
 # play
 
