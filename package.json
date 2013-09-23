@@ -1,5 +1,5 @@
 {
-  "name": "tetris",
+  "name": "ntetris",
   "version": "0.0.1",
   "description": "Play tetris in the command line",
   "main": "tetris.js",
